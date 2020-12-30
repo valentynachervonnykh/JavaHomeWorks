@@ -9,6 +9,7 @@ public class Ex28 {
         System.out.println(withoutDoubles(2, 3, true)); //t→ 5
         System.out.println(withoutDoubles(3, 3, true)); //→ 7
         System.out.println(withoutDoubles(3, 3, false)); //→ 6
+
     }
 
     private static int withoutDoubles(int diceOne, int diceTwo, boolean noDoubles) {
