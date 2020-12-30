@@ -4,7 +4,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         System.out.println("Uhuhu");
-        System.out.println("Привет мир!!!");
+        System.out.println("Привет миssр!!!");
         System.out.println(5 + 10);
         System.out.println("\n\t\\\"November");
         System.out.print("Valentyna\n");
